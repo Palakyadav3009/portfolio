@@ -1,14 +1,14 @@
 export const Bio = {
     name: "Palak Yadav",
     roles: [
-      "Full Stack Developer",                                                                                                                               
+      "Full Stack Developer",                                                                                                                        
       "Programmer",
     ],
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Palakyadav30",
     resume:
-      "",
+      "https://drive.google.com/file/d/1plDaXcl194VB8EiXuScprYQnW5kRewMn/view?usp=drivesdk",
     linkedin: "https://www.linkedin.com/in/palak-yadav-30sep/",
     twitter: "https://twitter.com/plkydv3009",
   
@@ -32,6 +32,10 @@ export const Bio = {
         {
           name: "HTML",
           image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
+        },
+        {
+          name: "NextJs",
+          image: "file:///D:/Downloads/nextjs-icon-svgrepo-com.svg",
         },
         {
           name: "CSS",
@@ -150,8 +154,8 @@ export const Bio = {
       id: 0,
       img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
       role: "Frontend Engineer Intern",
-      company: "Neurobit",
-      date: "June 2023 - Present",
+      company: "myLA",
+      date: "Jan 2023 - march 2023",
       desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
       skills: [
         "ReactJS",
@@ -162,7 +166,7 @@ export const Bio = {
         "CSS",
         "JavaScript",
       ],
-      doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+      doc: "",
     },
    
     {
@@ -170,9 +174,9 @@ export const Bio = {
       img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
       role: "Open Source Contributor ",
       company: "GirlScript Summer of Code",
-      date: "May 2023 - Present",
+      date: "May 2023",
       desc: "Contributing to different open-source projects and learn from industry experts",
-      doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
+     
     },
    
    
@@ -184,7 +188,7 @@ export const Bio = {
       img: "https://in.pinterest.com/pin/1025694883860302495/",
       school: "Graphic Era University,Dehradun",
       date: "July 2019 - July 2023",
-      grade: "8.71 CGPA",
+      grade: "7.67 CGPA",
       desc: "I am recent graduate in Bachelor's degree in Computer Science and Engineering at Graphic Era University, Dehradun. I have a CGPA of 7.67 . I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
     },
@@ -207,8 +211,7 @@ export const Bio = {
         "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
       tags: ["React Js", "Firebase", "Firestore", "Node JS"],
       category: "web app",
-      github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-      webapp: "https://whatsapp-clone-rishav.web.app",
+      
     },
     {
       id: 5,
@@ -220,8 +223,7 @@ export const Bio = {
         "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
       tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
       category: "web app",
-      github: "https://github.com/rishavchanda/Todo-Web-App",
-      webapp: "https://rishav-react-todo.netlify.app/",
+     
     },
    
     {
@@ -234,8 +236,7 @@ export const Bio = {
         "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
       tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
       category: "android app",
-      github: "https://github.com/rishavchanda/Quiz-Earn",
-      webapp: "https://github.com/rishavchanda/Quiz-Earn",
+  
     },
     {
       id: 8,
@@ -247,8 +248,7 @@ export const Bio = {
         "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
       tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
       category: "machine learning",
-      github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-      webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+ 
     },
   ];
   
